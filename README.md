@@ -27,7 +27,8 @@ The AI Orchestrator is a containerized microservices system that dynamically pro
    - Accepts user input and displays results.
 
 ### Diagram
-![image](https://github.com/user-attachments/assets/ba851d8e-e5a6-445a-9bec-8d774dbacb49)
+![diagram-export-28-03-2025-18_10_16](https://github.com/user-attachments/assets/4fb75463-d7bd-4fb9-a77b-5429e1853c16)
+
 
 
 
@@ -76,5 +77,6 @@ The AI Orchestrator is a containerized microservices system that dynamically pro
 - Logging & Monitoring
 - Extended NLP functionalities
 - Improved UI design
+- Use alipne images for container optimization
 
 
