@@ -48,9 +48,9 @@ async def service_request(request: dict):
     
 
     if task_type == "data_cleaning":
-        response = requests.post('http://127.0.0.1:8001/clean', json={"data": user_input})
+        response = requests.post('http://data_cleaning_service:8001/clean', json={"data": user_input})
     elif task_type == "sentiment_analysis":
-        response = requests.post('http://127.0.0.1:8002/analyze', json={"data": user_input})
+        response = requests.post('http://sentimental_analysis_service:8002/analyze', json={"data": user_input})
     else:
         return {"error": "Invalid Task type"}
 

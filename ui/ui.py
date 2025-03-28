@@ -3,7 +3,7 @@ import requests
 import json
 
 def send_request(user_input):
-    response = requests.post("http://127.0.0.1:8000/process", json={"data": user_input})
+    response = requests.post("http://orchestrator_service:8000/process", json={"data": user_input})
     return response.json()
 
 def save_json(data):
