@@ -78,5 +78,9 @@ The AI Orchestrator is a containerized microservices system that dynamically pro
 - Extended NLP functionalities
 - Improved UI design
 - Use alipne images for container optimization
+  
+## Demo Video
+![5BFE66CC-E6CE-4578-9B5E-54E88EA85ABC_1_102_o](https://github.com/user-attachments/assets/4d2c55bc-a250-4f75-a026-8f711c7f43df)
+
 
 
