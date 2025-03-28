@@ -27,7 +27,8 @@ The AI Orchestrator is a containerized microservices system that dynamically pro
    - Accepts user input and displays results.
 
 ### Diagram
-*(Insert a system architecture diagram here)*
+![image](https://github.com/user-attachments/assets/be854c25-3875-40ea-8ec1-5c7341023d66)
+
 
 ## Setup Instructions
 ### Prerequisites
@@ -38,7 +39,7 @@ The AI Orchestrator is a containerized microservices system that dynamically pro
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Luna7282/AI-orchestrator
    cd AI_Orchestrator
    ```
 
@@ -75,6 +76,4 @@ The AI Orchestrator is a containerized microservices system that dynamically pro
 - Extended NLP functionalities
 - Improved UI design
 
-## Demo Video
-*(Attach a link to the demo video showcasing the system in action.)*
 
